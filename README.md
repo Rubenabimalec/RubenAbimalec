@@ -1,4 +1,3 @@
-
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ruben cabalero </h1>
 <h3 align="center">Computer Systems Engineering student in 7th semester</h3>
@@ -11,7 +10,6 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ruben Caballero" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Ruben Caballero" height="30" width="40" /></a></p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
